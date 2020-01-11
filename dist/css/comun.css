@@ -1,0 +1,100 @@
+/*#region Comun*/
+
+.margin-padding-cero 
+{
+    margin-top: 0%;
+    margin-bottom: 0%;    
+    margin-left: 0%;    
+    margin-right: 0%;    
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+}
+
+.navbar-bg
+{
+    background-color: #34036B;
+}
+
+.mb-3
+{
+    margin-bottom: 0%!important;
+}
+
+.navbar-logo 
+{ 
+    padding-top: 0%!important;
+    padding-bottom: 0%!important;
+    padding-left: 8%!important;    
+    margin-left: 0%!important;
+}
+
+/*#endregion Comun*/ 
+
+
+
+/*#region INDEX*/ 
+
+.index-soluciones-row{    
+    width: 100%;
+    background: linear-gradient(135.46deg, #DDF9FF 0%, #B6E5F0 51.46%, #89D3E4 100%);    
+}
+
+.index-vision-row {	
+    width: 100%;
+    background-color: #F8FAFA;
+}
+
+.index-nosotros-row {
+    width: 100%;
+    background-color: #B6E5F0;
+}
+
+.web-index-btn-contacto {
+    color: #FFFFFF;
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+    line-height: 21px;
+    height: 40px;
+    width: 130px;
+	text-align: center;
+    border-radius: 22.5px;    
+    box-shadow: 0 8px 8px 0 rgba(0,147,186,0.22);
+    background: linear-gradient(270deg, #2ECFC5 0%, #89D3E4 100%);
+}
+
+.index-link {	    
+    color: #2ECFC5;    
+	font-family: 'Poppins';
+	font-size: 14px;
+    line-height: 21px;
+}
+
+.index-contacto-row {
+	width: 100%;
+	background-color: #283133;
+}
+
+/*#endregion INDEX*/
+
+
+/*#region PRODUCTOS*/ 
+
+.productos-header-row {
+    width: 100%;
+    background: linear-gradient(135deg, #F8FAFA 0%, #EBEFF0 100%);
+} 
+
+/*#endregion PRODUCTOS*/
+
+
+/*#region CLIENTES*/ 
+
+.clientes-header-row {
+    width: 100%;    
+} 
+
+/*#endregion PRODUCTOS*/

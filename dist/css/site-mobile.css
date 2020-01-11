@@ -1,0 +1,701 @@
+/*#region INDEX*/ 
+
+/*==================*/
+/*Seccion Soluciones*/
+/*==================*/
+
+.index-soluciones-row-c{
+    height: 18.29%;
+    padding-bottom: 3%;
+}
+
+.index-soluciones-col-left{        
+    text-align: center;    
+}
+
+.index-soluciones-col-right{
+    text-align: center;    
+}
+
+.index-soluciones-titulo {    
+	width: 90.63%;
+	color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+	line-height: 48px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+    margin-left: auto!important;
+    margin-right: auto!important;
+
+}
+
+.index-soluciones-parrafo {	
+	width: 90.63%;
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 14px;
+	line-height: 21px;
+    text-align: center;
+    padding-bottom: 3%;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+.index-soluciones-boton-div1{
+    padding-bottom: 6%;
+}
+
+.index-soluciones-boton {
+    color: #FFFFFF;
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+    line-height: 21px;
+    height: 40px;
+    width: 168px;
+	text-align: center;
+    border-radius: 22.5px;    
+    box-shadow: 0 8px 8px 0 rgba(0,147,186,0.22);
+    background: linear-gradient(270deg, #2ECFC5 0%, #89D3E4 100%);
+}
+
+/*===============*/
+/*Seccion Vision*/
+/*===============*/
+
+.index-vision-row-c {	
+    height: 20.82%;
+    padding-bottom: 5%;
+}
+
+.index-vision-row-c-desk {	
+    display: none;
+}
+
+.index-vision-row-c-mob {	
+    display: inline;
+}
+
+.index-vision-col-left{        
+    text-align: center;    
+}
+
+.index-vision-col-right{
+    text-align: center;    
+}
+
+.index-vision-titulo {		
+	width: 85.94%;
+	color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+	line-height: 48px;
+    text-align: center;
+    padding-top: 13%;
+    padding-bottom: 6%;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+.index-vision-parrafo {	
+	width: 88%;
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 15px;
+	line-height: 22px;
+    text-align: center;
+    padding-bottom: 10%;
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+
+/*======================*/
+/*Seccion Sobre Nosotros*/
+/*======================*/
+
+.index-nosotros-row-c {
+    height: 38.14%;        
+}
+
+.index-nosotros-titulo {	
+	color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+	line-height: 48px;
+    text-align: center;
+    padding-top: 9%;
+    padding-bottom: 5%;
+}
+
+.index-nosotros-item {
+	/* height: 11.3%; */
+    width: 94%;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    box-shadow: 0 8px 16px 0 rgba(0,147,186,0.12);
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5%;
+    margin-bottom: 3%;
+}
+
+.index-nosotros-item-imagen {
+    padding-top: 10%;
+    padding-bottom: 9%;
+}
+
+.index-nosotros-item-titulo {
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	letter-spacing: -0.3px;
+	line-height: 31px;
+	text-align: center;
+}
+
+.index-nosotros-item-parrafo {	
+    width: 60%;
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 14px;
+	line-height: 21px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.index-nosotros-item-link {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/*================*/
+/*Seccion Contacto*/
+/*================*/
+
+.index-contacto-row-c {
+    height: 22%;
+}
+
+.index-contacto-col-left {
+    display: none;
+}
+
+.index-contacto-col-med {    
+    width: 100%!important;
+}
+
+.index-contacto-col-right {    
+    width: 100%!important;
+    text-align: center;
+    margin-left: auto;    
+    margin-right: auto;   
+}
+
+.index-contacto-titulo {	
+	width: 80%;
+	color: #FFFFFF;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 31px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 13%;
+    padding-bottom: 1%;
+}
+
+.index-contacto-parrafo-dir {		
+	width: 60%;
+	color: #FFFFFF;
+	font-family: 'Poppins';
+	font-size: 14px;
+	line-height: 24px;
+    text-align: center;    
+    margin-left: auto;    
+    margin-right: auto;   
+    padding-top: 4%;    
+    padding-left: 0%;
+    padding-bottom: 4%;
+}
+
+hr.index-contacto-linea {		
+	width: 60%;
+    border: 1px solid #8C9496;    
+    text-align: center!important;
+    margin-left: auto;    
+    margin-right: auto;   
+    padding-left: 5%;
+}
+
+.index-contacto-parrafo-cont {		
+	width: 70%;
+	color: #FFFFFF;
+	font-family: 'Poppins';
+	font-size: 16px;
+	line-height: 24px;
+    text-align: center;    
+    margin-left: auto;    
+    margin-right: auto;    
+    padding-top: 5%;    
+    padding-left: 0%;
+    padding-bottom: 10%;
+}
+
+.index-contacto-form-group {
+    padding-left:10%;
+}
+
+.index-contacto-form-text {	    
+    width: 90%;
+	color: #8C9496;
+	font-family: 'Poppins';
+	font-size: 14px;
+    line-height: 18px;
+}
+
+.index-contacto-form-boton {
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.index-contacto-boton {
+    height: 40px;
+    width: 82%!important;
+    color: #FFFFFF;    
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+    line-height: 21px;        
+	text-align: center;
+    border-radius: 22.5px;
+    box-shadow: 0 8px 8px 0 rgba(0,147,186,0.22);
+    background: linear-gradient(270deg, #2ECFC5 0%, #89D3E4 100%);    
+}
+
+/*#endregion INDEX*/ 
+
+
+/*#region PRODUCTOS*/ 
+
+.productos-header-row-c {
+    height: 23%;
+    margin-top: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.productos-header-titulo {
+    width: 76%;
+    color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+	line-height: 48px;
+    text-align: center!important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.productos-header-fondo {
+    background-image: none;    
+}
+
+.productos-header-subtitulo {
+	display: none;
+}
+
+.productos-header-col-cat {
+    width: 100%;
+    text-align: left;    
+}
+
+.productos-header-col-cat-inn-i {
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.productos-header-col-cat-inn-d {
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.productos-header-col-cat-item {
+    height: 170px;
+    width: 98%;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;    
+    border-radius: 16px;
+    padding-bottom: 5%;    
+    background-color: #FFFFFF;    
+    box-shadow: 0 8px 16px 0 rgba(0,147,186,0.12);
+}
+
+.productos-header-col-cat-item-titulo-i {
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 30px;
+    text-align: left;
+    padding-left: 10%!important;
+}
+
+.productos-header-col-cat-item-texto-i {
+    width: 90%;
+    color: #8C9496;
+	font-family: 'Poppins';
+	font-size: 16px;
+	line-height: 24px;
+    text-align: left;
+    padding-left: 10%!important;
+}
+
+.productos-header-col-cat-item-titulo-d {	
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+    line-height: 30px;
+    text-align: left;
+    padding-left: 10%!important;
+}
+
+.productos-header-col-cat-item-texto-d {
+    width: 90%;
+    color: #8C9496;
+	font-family: 'Poppins';
+	font-size: 16px;
+	line-height: 24px;
+    text-align: left;
+    padding-left: 10%!important;
+}
+
+.productos-header-col-cat-productos-icono-i {
+    float: left;
+}
+
+.productos-header-col-cat-productos-icono-d {
+    float: left;
+}
+
+.productos-productos-row {
+	height: 6.09%;
+	width: 100%;
+    background-color: #EFFBFB;
+}
+
+.web-productos-productos-encabezado {    
+    height: 85px;
+    width: 100%;        
+    background-image: none;
+}
+
+.web-productos-productos-col-left {    
+    width: 0%;    
+}
+
+.web-productos-productos-col-right {
+    width: 100%;
+}
+
+.productos-productos-titulo {
+	color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 38px;
+	text-align: center;    
+}
+
+.productos-productos-item-col-left {
+    width: 100%;
+}
+
+.productos-productos-item-col-right {
+    width: 100%;
+}
+
+.productos-productos-item-titulo {
+    color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 38px;
+}
+
+.productos-productos-item-subtitulo {
+    color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 31px;
+}
+
+.productos-productos-item-parrafo {
+    color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 16px;
+	line-height: 24px;
+}
+
+.producto-productos-item-imagen {
+    border-radius: 20px;
+	background-color: #D8D8D8;
+    box-shadow: 0 8px 16px 0 rgba(0,147,186,0.12);
+}
+
+.productos-servicios-row {	
+	width: 100%;
+	background-color: #F8FAFA;
+}
+
+.web-productos-servicios-encabezado {        
+    height: 85px;
+    width: 100%;        
+    background-image: none;
+}
+
+
+/*#endregion PRODUCTOS*/
+
+
+/*#region CLIENTES*/ 
+
+.clientes-cabecera-bg {
+    height: 18.57%;
+    width: 100%;
+    background-image: url("http://localhost/Zigleet/dist/img/web_clientes_cabecera_bg.png"),
+                      linear-gradient(135.46deg, #DDF9FF 0%, #B6E5F0 51.46%, #89D3E4 100%);        
+    background-position: center 150px, 0 0;
+    background-repeat: no-repeat;
+    background-size: 180%, auto;
+}
+
+.clientes-cabecera-img-web {
+    display: none;
+}
+
+.clientes-cabecera-img-med {
+    display: none;
+}
+
+.clientes-cabecera-img-mob {
+    display: inline;    
+}
+
+
+.clientes-cabecera-titulo {
+    color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+	line-height: 48px;
+    text-align: center;
+    padding-top: 8%;
+}
+
+.clientes-cabecera-subtitulo {	
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	letter-spacing: -0.3px;
+	line-height: 31px;
+	text-align: center;
+}
+
+.clientes-cabecera-parrafo-left {    
+    width: 90%;
+    color: #8C9496;
+    font-family: 'Poppins';
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;    
+    margin-left: auto!important;
+    margin-right: auto!important;
+}
+
+.clientes-cabecera-parrafo-right {
+    width: 90%;
+    color: #8C9496;
+    font-family: 'Poppins';
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;    
+    margin-left: auto!important;
+    margin-right: auto!important;
+    padding-bottom: 5%;
+}
+
+.clientes-detalle-row {
+    background-color: none;
+    margin-top: 10%;    
+}
+
+.clientes-cabecera-col-left {
+    width: 100%;
+}
+
+.clientes-cabecera-col-right {
+    width: 100%;
+}
+
+.clientes-logos-titulo {
+    color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 38px;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.clientes-logos-col {
+    width: 100%;
+    text-align: center!important;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.clientes-detalle-row {
+    background-color: #F8FAFA;
+    margin-top: 7%;    
+}
+
+.clientes-detalle-titulo {
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 38px;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.clientes-detalle-nombre {
+    color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 18px;
+    text-align: center;
+    padding-bottom: 20%;
+}
+
+.clientes-detalle-col {
+    width: 40%;
+    text-align: center;    
+}
+
+.clientes-detalle-parrafo {
+    width: 90%;
+	color: #8C9496;
+	font-family: 'Poppins';
+    font-size: 14px;
+	line-height: 22px;
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 8%;
+}
+
+/*#endregion CLIENTES*/
+
+
+/*#region NOSOTROS*/ 
+
+.nosotros-cabecera-titulo {
+	color: #5D2A90;
+	font-family: 'Poppins';
+	font-size: 38px;
+	font-weight: 500;
+	letter-spacing: -0.4px;
+    line-height: 48px;
+    padding-top: 14%;
+	text-align: center;
+}
+
+.nosotros-cabecera-subtitulo {	
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 21px;
+	font-weight: 500;
+	letter-spacing: -0.3px;
+    line-height: 31px;
+    padding-bottom: 4%;
+	text-align: center;
+}
+
+.nosotros-cabecera-col-img-left {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.nosotros-cabecera-col-img-center {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;    
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.nosotros-cabecera-col-img-right {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 14%;
+    text-align: center;
+}
+
+.nosotros-cabecera-parrafo {
+    width: 92%;
+	color: #3B494C;
+	font-family: 'Poppins';
+	font-size: 16px;
+	line-height: 24px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20%;
+}
+
+
+/*#endregion NOSOTROS*/
+
